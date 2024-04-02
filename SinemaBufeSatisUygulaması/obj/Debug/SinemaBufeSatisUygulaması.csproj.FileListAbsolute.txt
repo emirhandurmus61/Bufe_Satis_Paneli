@@ -1,0 +1,11 @@
+C:\Users\EMİRHAN\Desktop\Udemy C#\SinemaBufeSatisUygulaması\SinemaBufeSatisUygulaması\bin\Debug\SinemaBufeSatisUygulaması.exe.config
+C:\Users\EMİRHAN\Desktop\Udemy C#\SinemaBufeSatisUygulaması\SinemaBufeSatisUygulaması\bin\Debug\SinemaBufeSatisUygulaması.exe
+C:\Users\EMİRHAN\Desktop\Udemy C#\SinemaBufeSatisUygulaması\SinemaBufeSatisUygulaması\bin\Debug\SinemaBufeSatisUygulaması.pdb
+C:\Users\EMİRHAN\Desktop\Udemy C#\SinemaBufeSatisUygulaması\SinemaBufeSatisUygulaması\obj\Debug\SinemaBufeSatisUygulaması.csproj.AssemblyReference.cache
+C:\Users\EMİRHAN\Desktop\Udemy C#\SinemaBufeSatisUygulaması\SinemaBufeSatisUygulaması\obj\Debug\SinemaBufeSatisUygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\EMİRHAN\Desktop\Udemy C#\SinemaBufeSatisUygulaması\SinemaBufeSatisUygulaması\obj\Debug\SinemaBufeSatisUygulaması.Form1.resources
+C:\Users\EMİRHAN\Desktop\Udemy C#\SinemaBufeSatisUygulaması\SinemaBufeSatisUygulaması\obj\Debug\SinemaBufeSatisUygulaması.Properties.Resources.resources
+C:\Users\EMİRHAN\Desktop\Udemy C#\SinemaBufeSatisUygulaması\SinemaBufeSatisUygulaması\obj\Debug\SinemaBufeSatisUygulaması.csproj.GenerateResource.cache
+C:\Users\EMİRHAN\Desktop\Udemy C#\SinemaBufeSatisUygulaması\SinemaBufeSatisUygulaması\obj\Debug\SinemaBufeSatisUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\EMİRHAN\Desktop\Udemy C#\SinemaBufeSatisUygulaması\SinemaBufeSatisUygulaması\obj\Debug\SinemaBufeSatisUygulaması.exe
+C:\Users\EMİRHAN\Desktop\Udemy C#\SinemaBufeSatisUygulaması\SinemaBufeSatisUygulaması\obj\Debug\SinemaBufeSatisUygulaması.pdb
