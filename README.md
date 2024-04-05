@@ -1,6 +1,6 @@
 SİNEMA VE BÜFE SATIŞ SAYFASI
 
-Bu proje kaç tane bilet ve kaçr tane ürün aldığına göre müşteriye toplam fiyatı sunar ve işletmede toplam kasa tutarını verir.
+Bu proje kaç tane bilet ve kaçr tane ürün aldığına göre müşteriye toplam fiyatı sunar ve işletmede toplam kasa tutarını verir.Windows Forms App(.Net Framework) ile yapılmıştır.
 
 Sinema ve Büfe Satış Paneli
 
